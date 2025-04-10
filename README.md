@@ -1,6 +1,5 @@
 <a href="https://github.com/kolton-musgrove">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolton-musgrove&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kolton-musgrove&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kolton-musgrove&show_icons=true&theme=tokyonight" />
 </a>
 
 <hr />
