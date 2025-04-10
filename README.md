@@ -1,5 +1,6 @@
 <a href="https://github.com/kolton-musgrove">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolton-musgrove&layout=compact" />
+  ![Kolton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kolton-musgrove&show_icons=true&theme=radical)
 </a>
 
 <hr />
